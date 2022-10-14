@@ -1,0 +1,9 @@
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/georust-01ab908e7389ad02.rmeta: src/main.rs src/game.rs src/navbar.rs src/map.rs src/info.rs
+
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/georust-01ab908e7389ad02.d: src/main.rs src/game.rs src/navbar.rs src/map.rs src/info.rs
+
+src/main.rs:
+src/game.rs:
+src/navbar.rs:
+src/map.rs:
+src/info.rs:

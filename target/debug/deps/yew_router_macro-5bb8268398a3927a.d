@@ -1,0 +1,10 @@
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/libyew_router_macro-5bb8268398a3927a.so: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/attribute.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/enum_impl.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/shadow.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/struct_impl.rs
+
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/yew_router_macro-5bb8268398a3927a.d: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/attribute.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/enum_impl.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/shadow.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/struct_impl.rs
+
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/lib.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/attribute.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/enum_impl.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/shadow.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/yew-router-macro-0.7.0/src/switch/struct_impl.rs:

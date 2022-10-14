@@ -1,0 +1,12 @@
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/base64-cc7ce81de9a464ae.rmeta: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/base64-cc7ce81de9a464ae.d: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs:

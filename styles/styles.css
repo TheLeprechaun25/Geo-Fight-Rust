@@ -1,0 +1,60 @@
+body {
+  line-height: unset;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.wrapper > div {
+  flex: 1 1 400px;
+}
+
+.selected-cell {
+  opacity:0.7;
+}
+
+.cell-grass {
+  background-color: rgb(84, 139, 51);
+}
+
+.cell-rock {
+  background-color: rgb(187, 161, 105);
+}
+
+.cell-city {
+  background-color: rgb(30, 31, 30);
+}
+
+
+.has-troops::after {
+  content: "x";
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+.game-row {
+  height: 15px;
+  white-space: nowrap;
+}
+
+.game-cells {
+  
+  width: 15px;
+  height: 15px;
+  outline: 0.2px solid #888888;
+  display: inline-block;
+  position: relative;
+}
+
+.empty-cells {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  position: relative;
+}
+

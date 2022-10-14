@@ -1,0 +1,1 @@
+cargo:rustc-cfg=feature="wasm_bindgen_test"

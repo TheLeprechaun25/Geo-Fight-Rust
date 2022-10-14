@@ -1,0 +1,13 @@
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/tracing-133a22ea68ee9ada.rmeta: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/tracing-133a22ea68ee9ada.d: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs:

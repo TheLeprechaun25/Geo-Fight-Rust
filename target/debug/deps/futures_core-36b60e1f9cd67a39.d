@@ -1,0 +1,11 @@
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/futures_core-36b60e1f9cd67a39.rmeta: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs
+
+/home/andoni/CRYPTO/GEOFIGHT-RUST/GEOFIGHT 2.0/georust/target/debug/deps/futures_core-36b60e1f9cd67a39.d: /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs /home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs
+
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/lib.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/future.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/stream.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/mod.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/poll.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/mod.rs:
+/home/andoni/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.24/src/task/__internal/atomic_waker.rs:
